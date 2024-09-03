@@ -1,0 +1,260 @@
+.body{
+    background-color: #414141;
+    font-family: "Fira Code", monospace;
+}
+
+.bthome{
+    margin: 5px;
+    
+
+}
+
+.imglogo {
+    width: 5rem;
+    height: 5rem;
+    
+}
+
+.imgBoxCenter{
+    
+    background-color:brown;
+    width: 30%;
+    text-align: center;
+    
+    
+
+}
+
+.imgHome {
+    width: 11rem;
+    height: 11rem;
+    border-radius: 200px;
+
+    
+
+    
+
+}
+.sectionContainer{
+    margin: 2rem;
+}
+
+
+.container{
+    width: 80%;
+    border-radius: 16px;
+    box-shadow: 10px 10px 10px gray;
+    background-color: brown;
+    margin: auto;
+    padding: auto;
+    
+    
+   
+}
+
+.header{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    align-items: center;
+    display:flex;
+    justify-content: space-between;
+}
+.bannerHome{
+    display: flex;
+    justify-content:flex-start;
+    padding: 2rem 2rem;
+    
+}
+
+
+.bannerSobre{
+    padding: 3rem 2rem;
+    display: flex;
+    
+}
+.imgSkills{
+    width: 45%;
+    height: 45%;
+}
+
+.bannerSkills{
+    padding: 2rem 5rem;
+    text-align: center;
+
+
+
+}
+
+.containerSkills{
+    display:flex;
+
+}
+
+.menuHome{
+    padding: 0; 
+    text-align: right;
+  
+}
+
+.menuLi{
+    list-style: none;
+    display: inline-block;
+}
+
+.menuA{
+
+    display: block;
+    text-decoration: none;
+    padding: 16px;
+    color: white
+    
+}
+
+.menuA:hover{
+    color: blue;
+
+}
+
+.menuA:hover{
+    color: yellow;
+}
+
+.imgSobre{
+    width: 5rem;
+    height: 5rem;
+    
+    
+}
+
+.buttonContactUs{
+
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 16px;
+    background-color: #414141;
+    width: 120px;
+    text-align: center;
+    font-weight: 700;
+    }
+
+    .buttonContactUs:hover{
+        background-color: blue;
+    }
+
+    .bannerPortifolio{
+        padding: 2rem 2rem;
+        
+    }
+
+    .iconPortifolio{
+        width: 7%;
+        height: 7%;
+        margin: 0;
+        
+        
+        
+    }
+
+    .imgPortifolio{
+        width: 100%;
+        height: 100%;
+        border-radius: 16px 0px 0px 16px;
+    }
+
+    .containerPortifolio{
+        
+        border-radius:16px;
+        padding: 0;
+        display: flex;
+        justify-content: space-between;
+        margin: 20px ;
+        
+
+    }
+    .textPortifolio{
+        background-color:white;
+        border-radius: 0px 16px 16px 0px;
+        padding: 10px 10px;
+    
+        border-color: black;
+    }
+
+    .containerIcons{
+        justify-content:space-between;
+        display: flex;
+        margin-top: 20px;
+        margin-right: 20px;
+        align-items: center;
+        
+    }
+
+    .bannerContato{
+        padding: 20px 20px;
+    }
+
+   
+
+    
+
+    .boxContato{
+        display: flex;  
+        align-items: center;
+        
+    }
+
+    .textoContato{
+        margin-left: 10px;
+        font-family: "Fira Code", monospace;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        font-size: 16px;
+        text-align: center;
+        
+    }
+    .textoTitulo{
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        color: white;
+        font-size: 25px;
+    }
+    .textHome{
+        font-family: "Fira Code", monospace;
+
+    }
+    
+    .vejaA{
+        text-decoration: none;
+        text-align: center;
+        color: white;
+        transition: 0.3 ease;
+        margin-left: 10px;
+        
+    }
+    
+    .vejaA:hover{
+        color: blue;
+    }
+
+    .vejaLi{
+        list-style: none;
+        text-align: center;    
+    }
+    .iconFooter{
+        width: 20px;
+        height: 20px;
+        
+    }
+    .iconA{
+        width: 10%;
+        margin-left: 10px;
+        
+    }
+    .containerA{
+        width: 100%;
+        margin-top: 15px;
+    }
+    
